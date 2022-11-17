@@ -1,0 +1,15 @@
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\bin\Debug\net7.0\ДЗ Задача 68.exe
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\bin\Debug\net7.0\ДЗ Задача 68.deps.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\bin\Debug\net7.0\ДЗ Задача 68.runtimeconfig.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\bin\Debug\net7.0\ДЗ Задача 68.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\bin\Debug\net7.0\ДЗ Задача 68.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\obj\Debug\net7.0\ДЗ Задача 68.csproj.AssemblyReference.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\obj\Debug\net7.0\ДЗ Задача 68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\obj\Debug\net7.0\ДЗ Задача 68.AssemblyInfoInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\obj\Debug\net7.0\ДЗ Задача 68.AssemblyInfo.cs
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\obj\Debug\net7.0\ДЗ Задача 68.csproj.CoreCompileInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\obj\Debug\net7.0\ДЗ Задача 68.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\obj\Debug\net7.0\refint\ДЗ Задача 68.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\obj\Debug\net7.0\ДЗ Задача 68.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\obj\Debug\net7.0\ДЗ Задача 68.genruntimeconfig.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 68\obj\Debug\net7.0\ref\ДЗ Задача 68.dll
